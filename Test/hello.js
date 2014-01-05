@@ -1,0 +1,4 @@
+// comment?
+{
+	printf "Hello world.";
+}
